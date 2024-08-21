@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d09bd922-35c0-4498-b358-9ec0ea292c71" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L4q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4q1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,8 @@
     "Application.L2q4.executor": "Run",
     "Application.L2q5.executor": "Run",
     "Application.L3q1.executor": "Run",
+    "Application.L3q2.executor": "Run",
+    "Application.L4q1.executor": "Run",
     "Application.Lecture2Question2.executor": "Run",
     "Application.Lecture2q3.executor": "Run",
     "Application.Main.executor": "Run",
@@ -84,7 +87,7 @@
       <updated>1724052365282</updated>
       <workItem from="1724052366380" duration="2910000" />
       <workItem from="1724161362696" duration="2717000" />
-      <workItem from="1724249314552" duration="299000" />
+      <workItem from="1724249314552" duration="3885000" />
     </task>
     <servers />
   </component>
