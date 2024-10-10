@@ -3,6 +3,7 @@ class Ll {
     Node tail;
     int size;
     Ll(){
+
         this.size = 0;
     }
     public void insertfirst(int value){
@@ -107,4 +108,6 @@ public class Main {
         list.delete(2);
         list.display();
     }
+
+    
 }
